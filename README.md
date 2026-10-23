@@ -15,6 +15,10 @@
 
 - [Заявка на тему](docs/project-proposal.md)
 - [ЛР1. Требования (ТЗ)](docs/lab-01-requirements.md)
+- [ЛР2. Архитектура](docs/architecture.md)
+- [ЛР2. Модель данных (ER, 3НФ)](docs/data-model.md)
+- [ЛР2. Контракт API](docs/api-contract.md)
+- [ЛР2. Матрица требований](docs/requirements-matrix.md)
 
 ## Структура
 
